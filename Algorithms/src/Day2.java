@@ -57,7 +57,15 @@ public class Day2 {
 			t2 = sum;
 			
 		}
-		
+// # You have a dictionary of cities. Create dictionary of distances
+
+//from pprint import pprint
+
+//cities = {
+   // 'Los Angeles': (550, 370),
+    //'Chicago': (510, 510),
+    //'Dallas': (480, 480)
+//}*/	// ????	
 		
 	}
 
